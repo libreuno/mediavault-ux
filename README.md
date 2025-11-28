@@ -1,2 +1,2 @@
-# mediavault-ux
-MediaVault UX designs including Logos, Banner, and images.
+# libreuno-ux
+LibreUno UX designs including Logos, Banner, and images.
